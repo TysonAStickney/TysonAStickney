@@ -1,4 +1,5 @@
-OS: windows 11
+OS: \
+&nbsp;&nbsp;&nbsp;&nbsp;windows 11
 
 Programming Languages: \
 &nbsp;&nbsp;&nbsp;&nbsp;Python, R, SQL 

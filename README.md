@@ -1,11 +1,20 @@
-OS: windows 11  
+OS: windows 11
 
-Programming Languages: Python, R, SQL 
+Programming Languages: \
+&nbsp;&nbsp;&nbsp;&nbsp;Python, R, SQL 
 
-Frameworks: Next.js, React.js, Prisma, TailwindCSS, Node.js  
-Tools: Git, GitHub
+Tools: \
+&nbsp;&nbsp;&nbsp;&nbsp;Git, GitHub
 
-Education:
-- Bachelor's of Science in Statistics at Vermont State University (ongoing)
+Education: \
+&nbsp;&nbsp;&nbsp;&nbsp;Bachelor's of Science in Statistics (on-going)\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vermont State University
 
-Email: tysonastickney@gmail.com
+Interests:  
+&nbsp;&nbsp;&nbsp;&nbsp;Data Science \
+&nbsp;&nbsp;&nbsp;&nbsp;Public Health \
+&nbsp;&nbsp;&nbsp;&nbsp;Bioinformatics \
+&nbsp;&nbsp;&nbsp;&nbsp;AI Ethics   
+
+Email: \
+&nbsp;&nbsp;&nbsp;&nbsp;tysonastickney@gmail.com
